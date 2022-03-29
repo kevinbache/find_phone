@@ -72,7 +72,7 @@ gunicorn==19.9.0
 gym==0.10.9
 h5py==2.8.0
 hdfs==2.2.1
-horovod==0.15.2
+horovod==0.24.0
 html5lib==1.0.1
 httplib2==0.11.3
 icc-rt==2019.0
