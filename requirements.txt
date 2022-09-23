@@ -145,7 +145,7 @@ prometheus-client==0.5.0
 prompt-toolkit==1.0.15
 proto-google-cloud-datastore-v1==0.90.4
 proto-google-cloud-pubsub-v1==0.15.4
-protobuf==3.6.1
+protobuf==3.18.3
 psutil==5.4.8
 ptyprocess==0.6.0
 pyasn1==0.4.4
